@@ -14,6 +14,6 @@ The goal is to simulate core concepts used in real-world self-driving systems, c
 
 ## 🖼️ Images
 <img src="media/setup.JPG" height = 80%>
-<img src="media/AEV.JPG" width =80%>
-<img src="media/rviz.JPG" width = 80%>
-<img src="media/tf.JPG" width = 80%>
+<img src="media/AEV.JPG" height =80%>
+<img src="media/rviz.JPG" height = 80%>
+<img src="media/tf.JPG" height = 80%>
